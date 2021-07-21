@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "opportfolio",
-  "homepage": "http://hrishi.tech/",
+  "homepage": "https://elmergustavo.github.io/portfolio/",
   "version": "1.2.0",
   "scripts": {
     "build": "react-scripts build",
