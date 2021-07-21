@@ -348,13 +348,13 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Deep Learning Specialization",
-      subtitle: "deeplearning.ai",
+      title: "Build Amazing Websites w/ HTML, CSS, Sass, JavaScript & More",
+      subtitle: "Frond-End",
       logo_path: "udemy.png",
       certificate_link:
-        "https://coursera.org/share/737a9587023c666b8e6cb303157aaeba",
+        "https://www.udemy.com/certificate/UC-82426684-2d9f-4dc7-b904-c71de55db47a/",
       alt_name: "deeplearning.ai",
-      color_code: "##FFFFFF",
+      color_code: "#2AAFED",
     },
     {
       title: "Sequence Models",
