@@ -357,11 +357,11 @@ const certifications = {
       color_code: "#2AAFED",
     },
     {
-      title: "Sequence Models",
-      subtitle: "deeplearning.ai",
+      title: "Curso Básico de Seguridad Informática para Empresas!",
+      subtitle: "Platzi",
       logo_path: "platzi.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/FM5AKEZA9NUY",
+        "https://platzi.com/p/elmer-gustavo/course/1647-seguridad-empresas/diploma/detalle/",
       alt_name: "deeplearning.ai",
       color_code: "#47A048",
     },
