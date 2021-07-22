@@ -12,7 +12,7 @@ const greeting = {
   title: "Hello.",
   title2: "Gustavo",
   logo_name: "Gustavo",
-  nickname: "hrishi1999 / picleric",
+  nickname: "Gustavo / Tavcode",
   full_name: "Elmer Gustavo Pú",
   subTitle:
     "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
@@ -27,7 +27,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/elmer-gustavo-p%C3%BA-769b60201/",
   gmail: "elmergustavo79@gmail.com",
   gitlab: " ",
-  facebook: " ",
+  facebook: "https://www.facebook.com/elmer.gustavo.79/",
   twitter: "https://twitter.com/elmergustavo79",
   instagram: "https://www.instagram.com/gustavo_tavcode/",
 };
@@ -333,11 +333,11 @@ const degrees = {
       title: "Rafael Landivar University",
       subtitle: "Computer and systems engineering",
       logo_path: "logo.jpg",
-      alt_name: "SETI",
+      alt_name: "URL",
       duration: "2017 - Present",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        "⚡ I have also completed various online courses for ML/DL, Web Development, Mobile App Development, etc.",
+        "⚡ I have finished the analysis and design courses, databases, compilers etc.",
         "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
       ],
       website_link: "https://principal.url.edu.gt/",
@@ -445,7 +445,7 @@ const experience = {
   description:
     "I've completed two internships. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
   header_image_path: "experience.svg",
-  sections: [
+  sections: [ /*
     {
       title: "Work",
       experiences: [
@@ -556,7 +556,7 @@ const experience = {
           color: "#D83B01",
         },
       ],
-    },
+    },*/
   ],
 };
 
@@ -580,13 +580,13 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Medium.",
-    link: "https://medium.com/@hrishipatel99",
+    link: "https://elmergustavo.github.io/",
     avatar_image_path: "blogs_image.svg",
   },
 };
 
 const projects = {
-  data: [
+  data: [/*
     {
       id: "0",
       name: "opPortfolio",
@@ -750,31 +750,7 @@ const projects = {
         },
       ],
     },
-    {
-      id: "6",
-      name: "Food Classifier",
-      url: " ",
-      description:
-        "A food classifier app using tflite which classfier over 50 Indian Dishes.",
-      languages: [
-        {
-          name: "Flutter",
-          iconifyClass: "logos-flutter",
-        },
-        {
-          name: "Dart",
-          iconifyClass: "logos-dart",
-        },
-        {
-          name: "Tensorflow",
-          iconifyClass: "logos-tensorflow",
-        },
-        {
-          name: "Jupyter Notebook",
-          iconifyClass: "logos-jupyter",
-        },
-      ],
-    },
+    
     {
       id: "7",
       name: "Image Clustering",
@@ -861,7 +837,7 @@ const projects = {
           iconifyClass: "logos-jupyter",
         },
       ],
-    },
+    },*/
   ],
 };
 
