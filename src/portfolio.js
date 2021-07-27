@@ -15,7 +15,7 @@ const greeting = {
   nickname: "Gustavo / Tavcode",
   full_name: "Elmer Gustavo Pú",
   subTitle:
-    "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
+    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://elmergustavo.github.io/",
   mail: "elmergustavo79@gmail.com",
