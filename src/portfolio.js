@@ -35,7 +35,7 @@ const socialMediaLinks = {
 const skills = {
   data: [
     {
-      title: "Full Stack Development",
+      title: "Developer",
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using ReactJS",
@@ -93,13 +93,16 @@ const skills = {
             color: "#CB3837",
           },
         },
+        /*
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
           style: {
             color: "#439743",
           },
-        },
+        },*/
+
+        /*
         {
           skillName: "GraphQL",
           fontAwesomeClassname: "simple-icons:graphql",
@@ -107,6 +110,8 @@ const skills = {
             color: "#DE33A6",
           },
         },
+
+        
         {
           skillName: "Android",
           fontAwesomeClassname: "simple-icons:android",
@@ -114,6 +119,8 @@ const skills = {
             color: "#3DDC84",
           },
         },
+        */
+
         {
           skillName: "Java",
           fontAwesomeClassname: "simple-icons:java",
@@ -121,6 +128,8 @@ const skills = {
             color: "#f89820",
           },
         },
+
+        /*
         {
           skillName: "Flutter",
           fontAwesomeClassname: "simple-icons:flutter",
@@ -128,6 +137,8 @@ const skills = {
             color: "#02569B",
           },
         },
+
+      
         {
           skillName: "Dart",
           fontAwesomeClassname: "simple-icons:dart",
@@ -135,6 +146,8 @@ const skills = {
             color: "#29B0EE",
           },
         },
+
+        
         {
           skillName: "Go",
           fontAwesomeClassname: "simple-icons:go",
@@ -142,6 +155,8 @@ const skills = {
             color: "#00A7D0",
           },
         },
+
+        
         {
           skillName: "Visual Basic",
           fontAwesomeClassname: "simple-icons:dot-net",
@@ -149,6 +164,8 @@ const skills = {
             color: "#029FCE",
           },
         },
+
+        */
         {
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
@@ -163,6 +180,8 @@ const skills = {
             color: "#0865A6",
           },
         },
+
+        /*
         {
           skillName: "Wordpress",
           fontAwesomeClassname: "simple-icons:wordpress",
@@ -185,6 +204,9 @@ const skills = {
             color: "#3776AB",
           },
         },
+
+
+        */
         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
@@ -192,6 +214,8 @@ const skills = {
             color: "#E94E32",
           },
         },
+
+        /*
         {
           skillName: "C",
           fontAwesomeClassname: "simple-icons:c",
@@ -199,6 +223,8 @@ const skills = {
             color: "#E94E32",
           },
         },
+
+        */
         {
           skillName: "C++",
           fontAwesomeClassname: "simple-icons:cplusplus",
@@ -217,6 +243,8 @@ const skills = {
         "⚡ Experience with 10+ Projects",
       ],
       softwareSkills: [
+
+        /*
         {
           skillName: "Tensorflow",
           fontAwesomeClassname: "logos-tensorflow",
@@ -224,6 +252,8 @@ const skills = {
             backgroundColor: "transparent",
           },
         },
+
+        
         {
           skillName: "Keras",
           fontAwesomeClassname: "simple-icons:keras",
@@ -232,6 +262,8 @@ const skills = {
             color: "#D00000",
           },
         },
+
+        
         {
           skillName: "PyTorch",
           fontAwesomeClassname: "logos-pytorch",
@@ -239,6 +271,8 @@ const skills = {
             backgroundColor: "transparent",
           },
         },
+
+        */
         {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
@@ -247,6 +281,8 @@ const skills = {
             color: "#3776AB",
           },
         },
+
+        /*
         {
           skillName: "Pandas",
           fontAwesomeClassname: "simple-icons:pandas",
@@ -255,6 +291,7 @@ const skills = {
             color: "#6E6E6E",
           },
         },
+        */
       ],
     },
     {
@@ -266,6 +303,8 @@ const skills = {
         "⚡ Experience with Continuous Integration",
       ],
       softwareSkills: [
+
+        /*
         {
           skillName: "GCP",
           fontAwesomeClassname: "simple-icons:googlecloud",
@@ -273,6 +312,8 @@ const skills = {
             color: "#4285F4",
           },
         },
+
+        */
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -280,6 +321,8 @@ const skills = {
             color: "#FF9900",
           },
         },
+
+        /*
         {
           skillName: "Netlify",
           fontAwesomeClassname: "simple-icons:netlify",
@@ -294,6 +337,8 @@ const skills = {
             color: "#6863A6",
           },
         },
+
+        */
         {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
@@ -315,6 +360,8 @@ const skills = {
             color: "#47A248",
           },
         },
+
+        /*
         {
           skillName: "Docker",
           fontAwesomeClassname: "simple-icons:docker",
@@ -322,6 +369,7 @@ const skills = {
             color: "#1488C6",
           },
         },
+        */
       ],
     },
   ],
@@ -347,6 +395,19 @@ const degrees = {
 
 const certifications = {
   certifications: [
+    
+    {
+      title: "Curso Profesional de GNU/Linux con Debian y CentOS",
+      subtitle: "GNU/Linux",
+      logo_path: "udemy.png",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-628b57f2-0d41-4e6d-9886-57a0a8ef85d6/",
+      alt_name: "deeplearning.ai",
+      color_code: "#2AAF34",
+    },
+
+
+
     {
       title: "Build Amazing Websites w/ HTML, CSS, Sass, JavaScript & More",
       subtitle: "Frond-End",
@@ -435,6 +496,7 @@ const certifications = {
       alt_name: "Google",
       color_code: "#ffc475",
     },
+    
   ],
 };
 
@@ -838,6 +900,8 @@ const projects = {
         },
       ],
     },*/
+
+    
   ],
 };
 
