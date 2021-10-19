@@ -4,20 +4,19 @@
 const settings = {
   isSplash: true, // Change this to true if you want to use the splash screen.
   useCustomCursor: true, // Change this to false if you want the good'ol cursor
- // googleTrackingID: "UA-174238252-2",
+  // googleTrackingID: "UA-174238252-2",
 };
 
 //Home Page
 const greeting = {
   title: "Hello.",
   title2: "Gustavo",
-  logo_name: "Gustavo",
-  nickname: "Gustavo / Tavcode",
+  logo_name: "Gustavo()",
+  nickname: "Gustavo / Potfolio",
   full_name: "Elmer Gustavo Pú",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
-  resumeLink:
-    "https://elmergustavo.github.io/",
+    "I'm Elmer Gustavo Pú. A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+  resumeLink: "https://elmergustavo.github.io/",
   mail: "elmergustavo79@gmail.com",
 };
 
@@ -39,7 +38,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using ReactJS",
-        "⚡ Develop software with the Java language, applying design patterns",
+        "⚡ Developing mobile applications using Flutter and native Android",
         "⚡ Creating application backend in Node, Express & Flask",
       ],
       softwareSkills: [
@@ -93,34 +92,27 @@ const skills = {
             color: "#CB3837",
           },
         },
-        /*
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
           style: {
             color: "#439743",
           },
-        },*/
-
-        /*
-        {
-          skillName: "GraphQL",
-          fontAwesomeClassname: "simple-icons:graphql",
-          style: {
-            color: "#DE33A6",
-          },
         },
-
-        
-        {
-          skillName: "Android",
-          fontAwesomeClassname: "simple-icons:android",
-          style: {
-            color: "#3DDC84",
-          },
-        },
-        */
-
+        // {
+        //   skillName: "GraphQL",
+        //   fontAwesomeClassname: "simple-icons:graphql",
+        //   style: {
+        //     color: "#DE33A6",
+        //   },
+        // },
+        // {
+        //   skillName: "Android",
+        //   fontAwesomeClassname: "simple-icons:android",
+        //   style: {
+        //     color: "#3DDC84",
+        //   },
+        // },
         {
           skillName: "Java",
           fontAwesomeClassname: "simple-icons:java",
@@ -128,44 +120,35 @@ const skills = {
             color: "#f89820",
           },
         },
-
+        // {
+        //   skillName: "Flutter",
+        //   fontAwesomeClassname: "simple-icons:flutter",
+        //   style: {
+        //     color: "#02569B",
+        //   },
+        // },
         /*
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-
-      
         {
           skillName: "Dart",
           fontAwesomeClassname: "simple-icons:dart",
           style: {
             color: "#29B0EE",
           },
-        },
-
-        
-        {
-          skillName: "Go",
-          fontAwesomeClassname: "simple-icons:go",
-          style: {
-            color: "#00A7D0",
-          },
-        },
-
-        
-        {
-          skillName: "Visual Basic",
-          fontAwesomeClassname: "simple-icons:dot-net",
-          style: {
-            color: "#029FCE",
-          },
-        },
-
-        */
+        }, */
+        // {
+        //   skillName: "Go",
+        //   fontAwesomeClassname: "simple-icons:go",
+        //   style: {
+        //     color: "#00A7D0",
+        //   },
+        // },
+        // {
+        //   skillName: "Visual Basic",
+        //   fontAwesomeClassname: "simple-icons:dot-net",
+        //   style: {
+        //     color: "#029FCE",
+        //   },
+        // },
         {
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
@@ -180,15 +163,13 @@ const skills = {
             color: "#0865A6",
           },
         },
-
-        /*
-        {
-          skillName: "Wordpress",
-          fontAwesomeClassname: "simple-icons:wordpress",
-          style: {
-            color: "#207297",
-          },
-        },
+        // {
+        //   skillName: "Wordpress",
+        //   fontAwesomeClassname: "simple-icons:wordpress",
+        //   style: {
+        //     color: "#207297",
+        //   },
+        // },
         {
           skillName: "Apache",
           fontAwesomeClassname: "simple-icons:apache",
@@ -196,17 +177,14 @@ const skills = {
             color: "#CA1A22",
           },
         },
-        {
-          skillName: "C#",
-          fontAwesomeClassname: "simple-icons:csharp",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-
-
-        */
+        // {
+        //   skillName: "C#",
+        //   fontAwesomeClassname: "simple-icons:csharp",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //     color: "#3776AB",
+        //   },
+        // },
         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
@@ -214,17 +192,13 @@ const skills = {
             color: "#E94E32",
           },
         },
-
-        /*
         {
-          skillName: "C",
-          fontAwesomeClassname: "simple-icons:c",
+          skillName: "Figma",
+          fontAwesomeClassname: "simple-icons:figma",
           style: {
             color: "#E94E32",
           },
         },
-
-        */
         {
           skillName: "C++",
           fontAwesomeClassname: "simple-icons:cplusplus",
@@ -235,7 +209,7 @@ const skills = {
       ],
     },
     {
-      title: "Data Science",
+      title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
         "⚡ database experience with MySQL",
@@ -243,36 +217,30 @@ const skills = {
         "⚡ Experience with 10+ Projects",
       ],
       softwareSkills: [
-
-        /*
+        // {
+        //   skillName: "Tensorflow",
+        //   fontAwesomeClassname: "logos-tensorflow",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //   },
+        // },
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
+          skillName: "R",
+          fontAwesomeClassname: "simple-icons:r",
           style: {
+            //backgroundColor: "white",
+            // color: "#D00000",
             backgroundColor: "transparent",
+            color: "#3776AB",
           },
         },
-
-        
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-
-        
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-
-        */
+        // {
+        //   skillName: "PyTorch",
+        //   fontAwesomeClassname: "simple-icons:firebase",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //   },
+        // },
         {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
@@ -281,17 +249,14 @@ const skills = {
             color: "#3776AB",
           },
         },
-
-        /*
-        {
-          skillName: "Pandas",
-          fontAwesomeClassname: "simple-icons:pandas",
-          style: {
-            backgroundColor: "transparent",
-            color: "#6E6E6E",
-          },
-        },
-        */
+        // {
+        //   skillName: "Pandas",
+        //   fontAwesomeClassname: "simple-icons:pandas",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //     color: "#6E6E6E",
+        //   },
+        // },
       ],
     },
     {
@@ -303,17 +268,13 @@ const skills = {
         "⚡ Experience with Continuous Integration",
       ],
       softwareSkills: [
-
-        /*
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
-
-        */
+        // {
+        //   skillName: "GCP",
+        //   fontAwesomeClassname: "simple-icons:googlecloud",
+        //   style: {
+        //     color: "#4285F4",
+        //   },
+        // },
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -321,24 +282,20 @@ const skills = {
             color: "#FF9900",
           },
         },
-
-        /*
-        {
-          skillName: "Netlify",
-          fontAwesomeClassname: "simple-icons:netlify",
-          style: {
-            color: "#38AFBB",
-          },
-        },
-        {
-          skillName: "Heroku",
-          fontAwesomeClassname: "simple-icons:heroku",
-          style: {
-            color: "#6863A6",
-          },
-        },
-
-        */
+        // {
+        //   skillName: "Netlify",
+        //   fontAwesomeClassname: "simple-icons:netlify",
+        //   style: {
+        //     color: "#38AFBB",
+        //   },
+        // },
+        // {
+        //   skillName: "Heroku",
+        //   fontAwesomeClassname: "simple-icons:heroku",
+        //   style: {
+        //     color: "#6863A6",
+        //   },
+        // },
         {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
@@ -360,16 +317,13 @@ const skills = {
             color: "#47A248",
           },
         },
-
-        /*
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        */
+        // {
+        //   skillName: "Docker",
+        //   fontAwesomeClassname: "simple-icons:docker",
+        //   style: {
+        //     color: "#1488C6",
+        //   },
+        // },
       ],
     },
   ],
@@ -395,7 +349,6 @@ const degrees = {
 
 const certifications = {
   certifications: [
-    
     {
       title: "Curso Profesional de GNU/Linux con Debian y CentOS",
       subtitle: "GNU/Linux",
@@ -405,8 +358,6 @@ const certifications = {
       alt_name: "deeplearning.ai",
       color_code: "#2AAF34",
     },
-
-
 
     {
       title: "Build Amazing Websites w/ HTML, CSS, Sass, JavaScript & More",
@@ -445,7 +396,8 @@ const certifications = {
       color_code: "#7A7A7A",
     },
     {
-      title: "Curso de Cálculo Integral: Integración por Partes, Cíclicas e Integrales Definidas",
+      title:
+        "Curso de Cálculo Integral: Integración por Partes, Cíclicas e Integrales Definidas",
       subtitle: "Platzi",
       logo_path: "platzi.png",
       certificate_link:
@@ -475,7 +427,8 @@ const certifications = {
       title: "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL",
       subtitle: "Udemy",
       logo_path: "udemy.png",
-      certificate_link: "https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/",
+      certificate_link:
+        "https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/",
       alt_name: "Google",
       color_code: "#C5E2EE",
     },
@@ -483,7 +436,8 @@ const certifications = {
       title: "Curso de Comunicación Efectiva",
       subtitle: "Platzi",
       logo_path: "platzi.png",
-      certificate_link: "https://platzi.com/p/elmer-gustavo/curso/1938-estrategias-comunicar/diploma/detalle/",
+      certificate_link:
+        "https://platzi.com/p/elmer-gustavo/curso/1938-estrategias-comunicar/diploma/detalle/",
       alt_name: "Google",
       color_code: "#ffc475",
     },
@@ -492,11 +446,11 @@ const certifications = {
       title: "Curso de Marca Personal",
       subtitle: "Platzi",
       logo_path: "platzi.png",
-      certificate_link: "https://platzi.com/p/elmer-gustavo/curso/1220-marca-personal/diploma/detalle/",
+      certificate_link:
+        "https://platzi.com/p/elmer-gustavo/curso/1220-marca-personal/diploma/detalle/",
       alt_name: "Google",
       color_code: "#ffc475",
     },
-    
   ],
 };
 
@@ -507,7 +461,8 @@ const experience = {
   description:
     "I've completed two internships. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
   header_image_path: "experience.svg",
-  sections: [ /*
+  sections: [
+    /*
     {
       title: "Work",
       experiences: [
@@ -648,12 +603,12 @@ const contactPageData = {
 };
 
 const projects = {
-  data: [/*
+  data: [
     {
       id: "0",
-      name: "opPortfolio",
-      url: "https://github.com/Hrishi1999/opPortfolio",
-      description: "(This) A clean and full customizable portfolio template.",
+      name: "Potafolio",
+      url: "https://elmergustavo.github.io/",
+      description: "Proyecto desarrollado con React Js",
       languages: [
         {
           name: "ReactJS",
@@ -663,25 +618,21 @@ const projects = {
     },
     {
       id: "1",
-      name: "Cab Security System",
-      url: " ",
+      name: "Sistema Punto de Venta",
+      url: "https://github.com/elmergustavo/SistemaPuntoVenta",
       description:
-        "Driver drowsiness detection, profanity detection, violence detection, SMS alerts, cab driver tracking.",
+        "Sistema Desarrollado en Ingenieria del Software, implementando patrones de diseño",
       languages: [
         {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "Java",
+          iconifyClass: "logos-java",
         },
         {
-          name: "Tensorflow",
-          iconifyClass: "logos-tensorflow",
-        },
-        {
-          name: "OpenCV",
-          iconifyClass: "logos-opencv",
+          name: "MySQL",
+          iconifyClass: "logos-mysql",
         },
       ],
-    },
+    } /*,
     {
       id: "2",
       name: "Lensinator",
@@ -899,9 +850,7 @@ const projects = {
           iconifyClass: "logos-jupyter",
         },
       ],
-    },*/
-
-    
+    },*/,
   ],
 };
 
