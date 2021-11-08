@@ -303,13 +303,13 @@ const skills = {
             color: "#FFCA28",
           },
         },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
+        // {
+        //   skillName: "PostgreSQL",
+        //   fontAwesomeClassname: "simple-icons:postgresql",
+        //   style: {
+        //     color: "#336791",
+        //   },
+        // },
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
