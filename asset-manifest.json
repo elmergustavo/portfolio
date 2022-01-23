@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.24121a64.chunk.css",
-    "main.js": "/portfolio/static/js/main.206b8f48.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.206b8f48.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.52811682.chunk.css",
+    "main.js": "/portfolio/static/js/main.75f508fa.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.75f508fa.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.35881a3d.chunk.js": "/portfolio/static/js/2.35881a3d.chunk.js",
-    "static/js/2.35881a3d.chunk.js.map": "/portfolio/static/js/2.35881a3d.chunk.js.map",
+    "static/js/2.0a86e6f8.chunk.js": "/portfolio/static/js/2.0a86e6f8.chunk.js",
+    "static/js/2.0a86e6f8.chunk.js.map": "/portfolio/static/js/2.0a86e6f8.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.a52fdd379bef3ac5d0d0fee8f27520dc.js": "/portfolio/precache-manifest.a52fdd379bef3ac5d0d0fee8f27520dc.js",
+    "precache-manifest.026087df1328665cf75cdfe305047d7b.js": "/portfolio/precache-manifest.026087df1328665cf75cdfe305047d7b.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.24121a64.chunk.css.map": "/portfolio/static/css/main.24121a64.chunk.css.map",
-    "static/js/2.35881a3d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.35881a3d.chunk.js.LICENSE.txt",
+    "static/css/main.52811682.chunk.css.map": "/portfolio/static/css/main.52811682.chunk.css.map",
+    "static/js/2.0a86e6f8.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0a86e6f8.chunk.js.LICENSE.txt",
     "static/media/100.jpg": "/portfolio/static/media/100.53c38366.jpg",
     "static/media/100.png": "/portfolio/static/media/100.8f1df092.png",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/buld.jpg": "/portfolio/static/media/buld.a1051a22.jpg",
     "static/media/codeInLogo.png": "/portfolio/static/media/codeInLogo.b3685be8.png",
     "static/media/deeplearning_ai_logo.png": "/portfolio/static/media/deeplearning_ai_logo.7a9b2eb0.png",
-    "static/media/all.css": "/portfolio/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/all.css": "/portfolio/static/media/fa-solid-900.c2801fb4.svg",
     "static/media/googleAssistant.jpg": "/portfolio/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/gustavo.jpg": "/portfolio/static/media/gustavo.1773f29f.jpg",
     "static/media/hrishi2.png": "/portfolio/static/media/hrishi2.66e2d22b.png",
@@ -36,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.35881a3d.chunk.js",
-    "static/css/main.24121a64.chunk.css",
-    "static/js/main.206b8f48.chunk.js"
+    "static/js/2.0a86e6f8.chunk.js",
+    "static/css/main.52811682.chunk.css",
+    "static/js/main.75f508fa.chunk.js"
   ]
 }
