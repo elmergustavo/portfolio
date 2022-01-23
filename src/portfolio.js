@@ -462,23 +462,23 @@ const experience = {
     "I've completed two internships. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
   header_image_path: "experience.svg",
   sections: [
-    /*
     {
-      title: "Work",
+      title: "Pasantía en DeltaTracking",
       experiences: [
         {
-          title: "Full Stack Developer",
-          company: "Quicko",
-          company_url: "https://quicko.com/",
-          logo_path: "quicko.jpg",
-          duration: "June 2021",
-          location: "Ahmedabad",
+          title: "Desarrollador Backend",
+          company: "DeltaTracking",
+          company_url: "https://www.deltatracking.com/",
+          logo_path: "Logo-sitio.png",
+          duration: "Diciembre 2021 - Actualmente",
+          location: "Quetzaltenango",
           description:
-            "Quicko is an online tax planning, preparation & filing platform for individuals & businesses.",
+            "Encargado del desarrollo de backend, consultas a bases de datos, deploy etc.",
           color: "#2962FF",
         },
       ],
     },
+    /*
     {
       title: "Internships",
       experiences: [
