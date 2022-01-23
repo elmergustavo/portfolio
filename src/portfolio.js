@@ -28,7 +28,7 @@ const socialMediaLinks = {
   gitlab: " ",
   facebook: "https://www.facebook.com/elmer.gustavo.79/",
   twitter: "https://twitter.com/elmergustavo79",
-  instagram: "https://www.instagram.com/gustavo_tavcode/",
+  instagram: "https://www.instagram.com/egustavo.dev/",
 };
 
 const skills = {
@@ -64,13 +64,13 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-        {
-          skillName: "PHP",
-          fontAwesomeClassname: "simple-icons:php",
-          style: {
-            color: "#7377AD",
-          },
-        },
+        // {
+        //   skillName: "PHP",
+        //   fontAwesomeClassname: "simple-icons:php",
+        //   style: {
+        //     color: "#7377AD",
+        //   },
+        // },
         {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
@@ -99,13 +99,13 @@ const skills = {
             color: "#439743",
           },
         },
-        // {
-        //   skillName: "GraphQL",
-        //   fontAwesomeClassname: "simple-icons:graphql",
-        //   style: {
-        //     color: "#DE33A6",
-        //   },
-        // },
+        {
+          skillName: "GraphQL",
+          fontAwesomeClassname: "simple-icons:graphql",
+          style: {
+            color: "#DE33A6",
+          },
+        },
         // {
         //   skillName: "Android",
         //   fontAwesomeClassname: "simple-icons:android",
